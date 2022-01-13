@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(134, 134, 89);
+}
+
+.centered-image {
+  margin: auto;
+  width: 25%;
+  height: auto;
+  display: block;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h3 {
+  color: rgb(221, 26, 140);
+  text-align: center;
+}
+
+.card {
+  margin: 6px;
+  padding: 6px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: left;
+  background-color: #bdac87;
+  color: rgb(2, 2, 2);
+}
